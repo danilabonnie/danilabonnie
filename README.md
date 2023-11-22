@@ -5,7 +5,6 @@
 ☆ How to reach me:<br>
   - Discord: @danilabonnie<br>
   - Instagram: @danilabonnie_oficial<br>
-![imagen de presentación]()
 <!---
 danilabonnie/danilabonnie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
