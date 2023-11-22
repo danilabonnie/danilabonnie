@@ -1,5 +1,4 @@
-
-#**ฅ૮(ÒㅅÓ)აฅ** Hi, I’m ***Danila Gavilán***!<br>
+**ฅ૮(ÒㅅÓ)აฅ** Hi, I’m ***Danila Gavilán***!<br>
 <br>
 I'm 18 years old girl from *Argentina*!<br>
 <br>
