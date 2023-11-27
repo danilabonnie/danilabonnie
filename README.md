@@ -7,11 +7,11 @@
 :star: I make illustrations :stars:
 <br>
 :star: I code in....
-- **C++**
-- **Java**
-- **HTML5**
-- **CSS**
-- **PHP**.<br><br>
+- **C++** (since 2021)
+- **Java** (since 2023)
+- **HTML5** (since 2022)
+- **CSS** (since 2022)
+- **PHP** (since 2023)<br><br>
 :star: I’m currently learning about some **programming languages** :keyboard:, **animation** :octocat: and **art** :pencil2:<br><br>
 :star: How to reach me:<br>
   - **Discord**: *@danilabonnie_oficial*<br>
