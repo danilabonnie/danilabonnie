@@ -1,7 +1,7 @@
 # :star: Hi! I'm Danila :star:
 :sunflower: I’m **Danila Gavilán**!<br>
 :sunflower: I'm 18 years old girl from *Argentina* :argentina:!<br>
-🌻 I am currently finishing my technical degree in programming at the EEST N°7 technical secondary school "José Hernández".<br>
+:sunflower: I am currently finishing my technical degree in programming at the EEST N°7 technical secondary school "José Hernández".<br>
 <br>
 :star: I animate 2d characters :octocat:<br>
 :star: I make illustrations :stars:
